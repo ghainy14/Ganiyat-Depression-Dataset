@@ -1,0 +1,821 @@
+Age,Gender,LOS,FAP,TSS,PAE,RSS,LIPE,FDH,TFA,FTLE,FFD,TCRWW,THBD,SSFO,MMSNE,STATUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,NORMAL
+27 - 30,Female,POSTGRADUATE,Yes,< 10 hours,> 5 hours,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Several days,Not at all,Several days,More than half the days,Several days,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Nearly everyday,Several days,Several days,Several days,Not at all,Not at all,Not at all,Yes,YES,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Several days,Several days,Not at all,Several days,Several days,More than half the days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,More than half the days,Not at all,Several days,Several days,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Yes,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,No,< 10 hours,01-Mar,NO,More than half the days,Nearly everyday,Nearly everyday,More than half the days,Nearly everyday,More than half the days,Several days,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,More than half the days,Not at all,More than half the days,Several days,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,03-May,NO,Several days,Several days,Nearly everyday,Several days,More than half the days,Several days,Several days,No,YES,DEPRESSION
+18 - 23,Male,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Nearly everyday,More than half the days,Not at all,Nearly everyday,Not at all,No,NO,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Nearly everyday,Several days,Not at all,Yes,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,No,10-20 hours,01-Mar,YES,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,No,YES,ANXIOUS
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,No,YES,ANXIOUS
+30 -50,Male,UNDERGRADUATE,Yes,20-30 hours,03-May,NO,Several days,Several days,Nearly everyday,More than half the days,Several days,Several days,Several days,Yes,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,< 1 hour,YES,Several days,Several days,Nearly everyday,Several days,Several days,Several days,Not at all,No,YES,DEPRESSION
+23 - 27,Male,POSTGRADUATE,No,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Not at all,Nearly everyday,Nearly everyday,More than half the days,Nearly everyday,Nearly everyday,More than half the days,No,YES,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,> 5 hours,NO,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Not at all,Several days,More than half the days,No,NO,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,> 30 hours,03-May,NO,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,NO,Several days,Several days,More than half the days,Several days,Several days,Nearly everyday,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Nearly everyday,Several days,Nearly everyday,Not at all,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,Several days,Nearly everyday,Nearly everyday,Several days,More than half the days,More than half the days,Yes,YES,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,> 5 hours,YES,Several days,More than half the days,Several days,More than half the days,Several days,Not at all,Not at all,No,NO,DEPRESSION
+23 - 27,Male,POSTGRADUATE,No,20-30 hours,03-May,YES,Several days,Several days,More than half the days,More than half the days,Several days,Nearly everyday,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,More than half the days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,More than half the days,More than half the days,Nearly everyday,Not at all,Several days,More than half the days,No,NO,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,> 30 hours,< 1 hour,NO,Nearly everyday,Several days,Not at all,More than half the days,Several days,More than half the days,Not at all,Yes,NO,DEPRESSION
+23 - 27,Male,POSTGRADUATE,No,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,> 5 hours,NO,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Yes,YES,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,No,< 10 hours,01-Mar,NO,More than half the days,Not at all,Several days,More than half the days,Not at all,Several days,Not at all,Yes,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Not at all,Several days,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,20-30 hours,01-Mar,NO,More than half the days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,NO,DEPRESSION
+27 - 30,Male,POSTGRADUATE,No,10-20 hours,03-May,YES,Not at all,Several days,Several days,Several days,Nearly everyday,Nearly everyday,Several days,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Nearly everyday,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Nearly everyday,Several days,Several days,Not at all,More than half the days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,> 5 hours,NO,Not at all,Several days,Several days,Several days,Several days,Nearly everyday,Several days,No,YES,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,> 5 hours,NO,More than half the days,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+27 - 30,Male,POSTGRADUATE,No,10-20 hours,03-May,NO,Nearly everyday,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,01-Mar,NO,More than half the days,Nearly everyday,More than half the days,Several days,Nearly everyday,More than half the days,Several days,Yes,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,No,< 10 hours,03-May,NO,More than half the days,Nearly everyday,Nearly everyday,Nearly everyday,More than half the days,Not at all,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,20-30 hours,03-May,YES,Nearly everyday,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Yes,NO,DEPRESSION
+27 - 30,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Not at all,Not at all,Several days,Several days,Several days,Not at all,Several days,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,> 5 hours,NO,Nearly everyday,Not at all,More than half the days,Several days,Not at all,Not at all,Not at all,Yes,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Nearly everyday,Several days,Not at all,Nearly everyday,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,No,10-20 hours,< 1 hour,NO,More than half the days,Several days,Not at all,Several days,Nearly everyday,More than half the days,More than half the days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,No,20-30 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,Yes,NO,DEPRESSION
+27 - 30,Male,POSTGRADUATE,No,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Yes,NO,ANXIOUS
+30 - 50,Female,POSTGRADUATE,Yes,< 10 hours,> 5 hours,NO,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Yes,NO,ANXIOUS
+15 - 18,Female,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,ANXIOUS
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Several days,Not at all,Not at all,Several days,Not at all,No,NO,ANXIOUS
+15 - 18,Male,UNDERGRADUATE,No,10-20 hours,01-Mar,NO,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,No,< 10 hours,> 5 hours,NO,Nearly everyday,Several days,More than half the days,Several days,Not at all,Nearly everyday,Not at all,No,YES,DEPRESSION
+27 - 30,Male,POSTGRADUATE,No,> 30 hours,01-Mar,YES,Nearly everyday,Not at all,Nearly everyday,Nearly everyday,Not at all,Several days,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Several days,Nearly everyday,More than half the days,Not at all,Nearly everyday,Several days,Yes,NO,DEPRESSION
+27 - 30,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,No,NO,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,> 5 hours,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,More than half the days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Nearly everyday,Several days,Several days,Several days,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,More than half the days,More than half the days,Several days,Nearly everyday,Nearly everyday,Several days,Not at all,Yes,YES,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,Nearly everyday,Nearly everyday,Several days,Several days,Nearly everyday,Not at all,Yes,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Several days,Not at all,Not at all,Several days,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,Not at all,Several days,More than half the days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Not at all,Several days,Several days,More than half the days,Several days,No,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Several days,Nearly everyday,Several days,Not at all,Nearly everyday,Not at all,No,NO,ANXIOUS
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,> 5 hours,NO,Several days,Several days,Not at all,Nearly everyday,Not at all,Not at all,Not at all,Yes,NO,ANXIOUS
+23 - 27,Female,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Several days,More than half the days,Not at all,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Nearly everyday,Not at all,Nearly everyday,Not at all,Nearly everyday,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,< 1 hour,NO,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Yes,NO,DEPRESSION
+23 - 27,Female,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Nearly everyday,Not at all,Several days,Several days,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Several days,More than half the days,Not at all,Yes,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,01-Mar,NO,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Nearly everyday,More than half the days,Not at all,More than half the days,Not at all,More than half the days,More than half the days,Yes,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,20-30 hours,01-Mar,NO,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,No,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Nearly everyday,Not at all,More than half the days,Several days,Several days,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,> 5 hours,NO,Nearly everyday,More than half the days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,Not at all,Several days,Several days,Several days,Not at all,Not at all,Yes,YES,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Several days,Not at all,More than half the days,Several days,More than half the days,No,YES,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,Several days,More than half the days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,More than half the days,Several days,Several days,More than half the days,Several days,Several days,Not at all,No,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,More than half the days,Not at all,Nearly everyday,More than half the days,Several days,Not at all,No,YES,ANXIOUS
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,No,YES,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+27 - 30,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,POSTGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Not at all,More than half the days,Not at all,Several days,Several days,Several days,Not at all,No,NO,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,More than half the days,Not at all,Not at all,Several days,More than half the days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,03-May,NO,Several days,Not at all,Several days,Several days,More than half the days,Not at all,Not at all,Yes,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,Not at all,Several days,Nearly everyday,Not at all,Several days,Not at all,No,NO,ANXIOUS
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Several days,Several days,Not at all,More than half the days,Not at all,No,NO,ANXIOUS
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Several days,More than half the days,Several days,Yes,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+27 - 30,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,POSTGRADUATE,No,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,POSTGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,POSTGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Several days,Not at all,Several days,Several days,Several days,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,Not at all,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Nearly everyday,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Yes,NO,NORMAL
+27 - 30,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Several days,Several days,Several days,Not at all,Not at all,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,More than half the days,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Yes,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,20-30 hours,01-Mar,NO,Several days,Not at all,Several days,Several days,Not at all,More than half the days,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,More than half the days,More than half the days,Several days,Several days,Not at all,Nearly everyday,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,< 1 hour,YES,Several days,More than half the days,Not at all,Nearly everyday,Not at all,Several days,Not at all,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,No,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Yes,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Nearly everyday,Not at all,Not at all,Not at all,Not at all,Yes,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+30 - 50,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,More than half the days,Not at all,Several days,Several days,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,POSTGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,POSTGRADUATE,No,< 10 hours,< 1 hour,YES,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,POSTGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,POSTGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Several days,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,More than half the days,Several days,Several days,Not at all,Several days,Several days,Several days,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Nearly everyday,Nearly everyday,Several days,Several days,Several days,More than half the days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+30 - 50,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,> 5 hours,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Several days,Not at all,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+30 - 50,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,More than half the days,Several days,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,Several days,More than half the days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Several days,No,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,20-30 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Several days,Several days,Not at all,Several days,Several days,Several days,Several days,No,NO,ANXIOUS
+23 - 27,Male,POSTGRADUATE,Yes,20-30 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+27 - 30,Female,POSTGRADUATE,No,< 10 hours,< 1 hour,YES,Not at all,Several days,Not at all,Several days,Several days,Not at all,Several days,No,NO,ANXIOUS
+15 - 18,Female,UNDERGRADUATE,Yes,20-30 hours,03-May,YES,Not at all,Several days,Not at all,Not at all,Several days,Several days,Not at all,No,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,No,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,> 30 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,20-30 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,No,NO,DEPRESSION
+30 - 50,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,20-30 hours,01-Mar,YES,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Several days,Not at all,Several days,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,NO,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,03-May,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,NO,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,More than half the days,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,POSTGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Several days,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Not at all,Nearly everyday,Not at all,Several days,Not at all,No,NO,ANXIOUS
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+27 - 30,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+30 - 50,Male,UNDERGRADUATE,No,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Not at all,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Several days,Not at all,Several days,Not at all,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,Yes,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Nearly everyday,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Not at all,Several days,Several days,Not at all,Not at all,Yes,YES,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Yes,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+23 - 27,Female,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,Nearly everyday,More than half the days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,Not at all,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Nearly everyday,Several days,Nearly everyday,Nearly everyday,More than half the days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,NO,More than half the days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,NO,More than half the days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,Several days,Several days,Several days,More than half the days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Nearly everyday,Nearly everyday,Nearly everyday,More than half the days,More than half the days,More than half the days,No,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Several days,No,YES,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,No,YES,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,No,< 10 hours,< 1 hour,NO,Not at all,Several days,Nearly everyday,Several days,More than half the days,Several days,Not at all,No,NO,ANXIOUS
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,NO,More than half the days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,> 5 hours,YES,Several days,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,No,YES,ANXIOUS
+30 - 50,Male,POSTGRADUATE,Yes,10-20 hours,01-Mar,NO,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Yes,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,> 5 hours,YES,Several days,Several days,Several days,Not at all,Several days,Nearly everyday,Not at all,Yes,NO,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,> 5 hours,YES,More than half the days,Nearly everyday,Several days,Several days,More than half the days,Several days,Several days,No,NO,DEPRESSION
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,NO,Several days,Not at all,Several days,Nearly everyday,Not at all,Several days,Not at all,Yes,NO,DEPRESSION
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Nearly everyday,Several days,More than half the days,More than half the days,Not at all,No,NO,DEPRESSION
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,No,YES,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,YES,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,No,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,Several days,No,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+27 - 30,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Yes,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,No,YES,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,NO,Not at all,Several days,Not at all,Not at all,Several days,Several days,Not at all,No,YES,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,03-May,NO,Not at all,Several days,Several days,Several days,Not at all,More than half the days,Several days,No,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Several days,Several days,Several days,More than half the days,Several days,Several days,Several days,Yes,YES,DEPRESSION
+15 - 18,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,More than half the days,More than half the days,Not at all,Not at all,Several days,Not at all,No,YES,DEPRESSION
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,ANXIOUS
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Female,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+15 - 18,Male,UNDERGRADUATE,Yes,< 10 hours,< 1 hour,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,YES,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,ANXIOUS
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,< 10 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+23 - 27,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,03-May,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,No,NO,ANXIOUS
+18 - 23,Female,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
+18 - 23,Male,UNDERGRADUATE,Yes,10-20 hours,01-Mar,YES,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,No,NO,NORMAL
