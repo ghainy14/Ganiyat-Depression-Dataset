@@ -18,7 +18,7 @@ def main():
     st.title('Machine Learning Model Predictor')
 
     # Input features
-    feature1 = st.text_input('WET BIOMASS(g)', min_value=0, max_value=100)
+    feature1 = st.text_input('WET BIOMASS g', min_value=0, max_value=100)
     feature2 = st.text_input('DRY BIOMASS(g)', min_value=0, max_value=100)
     feature3 = st.text_input('CARBON SOURCE', min_value=0, max_value=100)
 
