@@ -19,9 +19,6 @@
    "cell_type": "code",
    "execution_count": 9,
    "id": "493b1a77",
-   "metadata": {
-    "scrolled": true
-   },
    "outputs": [
     {
      "ename": "SyntaxError",
